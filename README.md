@@ -1,4 +1,2 @@
-# simple.calculator
-![alt text](https://github.com/halimul/simple.calculator/blob/main/simple%20calculator.png)
-![alt text](https://github.com/halimul/simple.calculator/blob/main/simple%20calculator.png)
+# Preview simple calculator
 ![alt text](https://github.com/halimul/simple.calculator/blob/main/simple%20calculator.png)
